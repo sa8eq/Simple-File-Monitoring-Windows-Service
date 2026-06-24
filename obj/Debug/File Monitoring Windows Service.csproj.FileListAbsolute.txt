@@ -1,0 +1,7 @@
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\bin\Debug\File Monitoring Windows Service.exe.config
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\bin\Debug\File Monitoring Windows Service.exe
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\bin\Debug\File Monitoring Windows Service.pdb
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\obj\Debug\File Monitoring Windows Service.csproj.AssemblyReference.cache
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\obj\Debug\File Monitoring Windows Service.csproj.CoreCompileInputs.cache
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\obj\Debug\File Monitoring Windows Service.exe
+C:\Users\sadeq\Desktop\Road Map\Course 24\File Monitoring Windows Service\obj\Debug\File Monitoring Windows Service.pdb
