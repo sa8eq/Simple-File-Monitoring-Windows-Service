@@ -109,7 +109,7 @@ namespace File_Monitoring_Windows_Service
             string logFilePath = Path.Combine(logFolder, "FileMonitoringWindowsService.txt");
             string logMessage = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}, {message}]";
             
-            File.AppendAllText(logFilePath, logMessage);
+            File.AppendAllText(logFilePath, logMessage + Environment.NewLine);
             
             if(Environment.UserInteractive)
             {
